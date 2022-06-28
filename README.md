@@ -9,7 +9,7 @@ _personal website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://giedriuspc.github.io/portfolio-solowork-giedrius/
 
 Design: https://rstheme.com/products/html/braintech/about.html
 
@@ -27,4 +27,4 @@ Design: https://rstheme.com/products/html/braintech/about.html
 
 ## Authors
 
-Giedrius: [Github](https://github.com/GiedriusPC)
+Giedrius: [Github](https://github.com/GiedriusPC/portfolio-solowork-giedrius)
