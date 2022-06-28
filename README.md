@@ -19,6 +19,7 @@ Design: https://rstheme.com/products/html/braintech/about.html
 -   single-page
 -   content rendering with JS
 -   carousel
+
 -   gallery
 -   progress bar
 -   fontawesome icons
